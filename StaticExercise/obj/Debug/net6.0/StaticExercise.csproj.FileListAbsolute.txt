@@ -1,0 +1,15 @@
+/Users/jasonbrezenski/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasonbrezenski/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.AssemblyInfoInputs.cache
+/Users/jasonbrezenski/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.AssemblyInfo.cs
+/Users/jasonbrezenski/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.csproj.CoreCompileInputs.cache
+/Users/jasonbrezenski/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.sourcelink.json
+/Users/jasonbrezenski/Desktop/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise
+/Users/jasonbrezenski/Desktop/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.deps.json
+/Users/jasonbrezenski/Desktop/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.runtimeconfig.json
+/Users/jasonbrezenski/Desktop/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.dll
+/Users/jasonbrezenski/Desktop/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.pdb
+/Users/jasonbrezenski/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.dll
+/Users/jasonbrezenski/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/refint/StaticExercise.dll
+/Users/jasonbrezenski/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.pdb
+/Users/jasonbrezenski/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.genruntimeconfig.cache
+/Users/jasonbrezenski/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/ref/StaticExercise.dll
